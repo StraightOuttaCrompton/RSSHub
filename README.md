@@ -1,3 +1,4 @@
+Deploy trigger
 <p align="center">
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
